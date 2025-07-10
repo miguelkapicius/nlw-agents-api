@@ -15,6 +15,13 @@
       "when": 1751991158365,
       "tag": "0001_tough_roulette",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752153329496,
+      "tag": "0002_amazing_quentin_quire",
+      "breakpoints": true
     }
   ]
 }
